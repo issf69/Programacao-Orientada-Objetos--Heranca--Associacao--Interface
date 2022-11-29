@@ -1,6 +1,6 @@
 👉 Dicas
 
-😘 Olá , Bem vindo a minhas dicas sobre orientação a objetos.
+😘 Olá , Bem vindo a dicas Programação Orientada a Objetos.
 
                                                👇
 Programacao Orientada-Objetos- Herança- Associação- Interface.
